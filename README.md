@@ -29,4 +29,5 @@ Hints such as **Hot**, **Cold**, or **Right** guide the player closer to the ans
 1. Clone this repository or copy the source code.  
 2. Compile the program:  
    ```bash
-   g++ number_guess.cpp -o number_guess
+   g++ NumberGuessingGame.cpp -o NumberGuessingGame
+   ./NumberGuessingGame.exe
